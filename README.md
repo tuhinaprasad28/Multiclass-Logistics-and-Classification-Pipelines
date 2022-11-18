@@ -1,4 +1,4 @@
-### ML Basics:
+### Multiclass Logistic Basics:
 
 Write a function to compute the ({multiclass}) logistic loss ({also called the cross-entropy loss}) given the parameters $(W,b)$ of a linear model (as numpy arrays) and an example $(x,y)$.
 
